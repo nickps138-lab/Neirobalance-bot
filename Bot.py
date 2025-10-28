@@ -7,7 +7,7 @@ from datetime import datetime
 
 # === НАСТРОЙКИ === ЗАМЕНИТЕ ЭТИ ДАННЫЕ ===
 TOKEN = "7854171673:AAEQs0acB0pfD0KMvhqH3gKFop1L8vZee-A"
-ADMIN_CHAT_ID = 123456789  # Замените на ваш ID из @userinfobot
+ADMIN_CHAT_ID = 347997551  # Замените на ваш ID из @userinfobot
 # === КОНЕЦ НАСТРОЕК ===
 
 # Этапы разговора
